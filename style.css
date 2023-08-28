@@ -1,0 +1,164 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  background: #dae5fc;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 1000px;
+  margin: 0 auto;
+  background: #f4f4f6;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+aside {
+  width: 370px;
+  background: #1e2939;
+}
+
+.cvfoto {
+  margin: 25px 0 0 0;
+}
+
+.contacts {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.bold {
+  font-weight: 700;
+}
+
+.list-secondary {
+  color: #fb6d3a;
+  margin-left: 0;
+  padding-left: 0;
+  list-style-position: inside;
+}
+.listbiel {
+  color: #ffffff;
+}
+
+.contact-block {
+  margin-top: 51px;
+  margin-left: 40px;
+}
+
+.tech-block {
+  margin-top: 47px;
+  margin-left: 40px;
+}
+
+.skill-block {
+  margin-top: 47px;
+  margin-left: 40px;
+}
+
+.main {
+  padding: 102px 88px 102px 88px;
+}
+
+.main-description {
+  width: 400px;
+}
+
+.job {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+}
+
+.john {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+}
+
+.description {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-bottom: 40px;
+}
+
+.projects {
+  width: 485px;
+  margin-bottom: 51px;
+}
+
+.project-naglowek {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+}
+
+.list-primary {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+  padding-left: 0%;
+  list-style-position: inside;
+}
+
+.link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  text-decoration: none;
+}
+
+.job-freelance {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+  margin-bottom: 12px;
+}
+
+.orange {
+  color: #fb6d3a;
+}
+
+.september {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}
+
+.kreska {
+  color: #000000;
+}
+
+.list-job {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  padding-left: 0%;
+  list-style-position: inside;
+}
+
+.national-university {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+  margin-bottom: 12px;
+}
+
+.management {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+}
